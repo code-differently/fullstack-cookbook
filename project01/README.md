@@ -1,5 +1,6 @@
 # Spring Boot React Full-Stack Architecture
 
+
 ![](./assets/img01.png)
 
 ## What we will build
@@ -18,6 +19,13 @@ We will build a full-stack web application that is a basic Employee Management A
 * JDK 1.8
 * Embedded Tomcat 8.5+
 * MySQL Database
+
+
+## Video Walkthrough
+
+![](./assets/video.png)
+
+[Watch Video Here](https://vimeo.com/731057905)
 
 ## 1. Create Spring boot application
 

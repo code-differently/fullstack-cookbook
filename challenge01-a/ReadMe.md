@@ -29,6 +29,8 @@ Make sure you have the following dependences:
 * JPA - Java Persistence API
 * H2 - The Database
 
+Place the folder in your dev folder, then create a new REPO in github and push the changes up.
+
 ## Step 02 :
 
 Create the full application with the following structure
